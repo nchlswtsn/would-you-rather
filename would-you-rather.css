@@ -8,6 +8,7 @@ h3 {
   margin-left: 10px;
 }
 button {
-  margin: 10px;
+  position: absolute;
+  margin-top: 200px;
   display: block;
 }
